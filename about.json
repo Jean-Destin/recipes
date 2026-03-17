@@ -1,0 +1,19 @@
+{
+    "mission": "Our mission is to share the rich flavors and diverse recipes that define Cameroonian cuisine with food enthusiasts around the world.",
+    "vision": "We envision a world where the culinary treasures of Cameroon are celebrated and enjoyed globally, bringing people together through the love of food.",
+    "team": [
+      {
+        "name": "Brazzarise",
+        "role": "sponsors"
+      },
+      {
+        "name": "Secetary",
+        "role": "Food Blogger"
+      },
+      {
+        "name": "Cheff",
+        "role": "Recipe Developer"
+      }
+    ]
+  }
+  

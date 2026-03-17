@@ -1,0 +1,140 @@
+ [
+  {"name": "Jollof Rice",
+    "description": "A flavorful one-pot rice dish cooked in a tomato-based sauce.",
+    "image": "images/jelof.jpg",
+    "ingredients": ["2 cups long-grain rice", "1/4 cup vegetable oil", " 1 onion, chopped","2 tomatoes, blended","1 red bell pepper, blended","2 cups chicken or vegetable broth","1 teaspoon thyme","1 teaspoon curry powder","Salt to taste","vegetables, chicken, or fish(Optional)"],
+    "instructions": ["Step 1: Rinse and drain rice.", "Step 2: Heat oil, sauté onions until translucen.", "Step 3: Add blended tomatoes and bell pepper; cook until thick.", "Step 4: Stir in thyme, curry, and salt.", "Step 5: Add rice, broth; bring to boil, then simmer until rice is cooked."],
+    "prepTime": "10 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4 people",
+    "nutrition": {
+      "calories": "400 kcal",
+      "protein": "8g g",
+      "fat": "10 g",
+      "carbohydrates": "70 g"
+    }},
+    {"name": "Ndole",
+    "description": "A rich stew made with bitter leaves and ground peanuts",
+    "image": "images/ndole.jpg",
+    "ingredients": ["2 cups bitter leaves, washed", "1 cup ground peanuts", "1 onion, chopped","2 tomatoes, blended","2 cups cooked meat (beef/chicken)","1/4 cup palm oil"," 1 teaspoon ground crayfish (optional)","Salt to taste"],
+    "instructions": ["Step 1: Boil and wash bitter leaves to reduce bitterness.", "Step 2: Heat palm oil, sauté onions, and add blended tomatoes.", "Step 3: Stir in ground peanuts; mix well.","Step 4: Add meat and bitter leaves; simmer for 15-20 minutes."],
+    "prepTime": "15 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4 people",
+    "nutrition": {
+      "calories": "500 kcal ",
+      "protein": "22 g",
+      "fat": "35 g",
+      "carbohydrates": "30 g"
+    }},
+    {"name": "Ekwang",
+    "description": "A hearty dish made from grated taro cooked in palm oil.",
+    "image": "images/ekwang.jpg",
+    "ingredients": ["2 cups grated taro", "1/2 cup palm oil", "1 onion, chopped"," 2 cups water","1 cup smoked fish or meat","1 teaspoon ground crayfish"," Salt and pepper to taste"],
+    "instructions": ["Step 1: Grate taro and set aside in water.", "Step 2: Heat palm oil, sauté onions, then add grated taro and fish.", "Step 3: Add water; boil and simmer for 20-30 minute.", "Step 4: Season and serve."],
+    "prepTime": "10 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4 people",
+    "nutrition": {
+      "calories": "400 kcal",
+      "protein": "15 g",
+      "fat": "20 g",
+      "carbohydrates": "50 g"
+    }},
+    {"name": "Pepper Soup",
+    "description": "A spicy broth made with meat or fish and fragrant spices.",
+    "image": "images/pepper.jpg",
+    "ingredients": [" 1 kg chicken or fish", "2 liters water", " 2 tablespoons ground pepper"," 1 onion, chopped"," 2-3 cloves garlic, minced","1 tablespoon ginger, minced","2-3 tablespoons ground crayfish","Salt to taste"],
+    "instructions": ["Step 1: Boil chicken or fish with water, onions, garlic, and ginger.", "Step 2: Add ground pepper and crayfish; simmer for 20-30 minutes.", "Step 3:  Serve hot with herbs."],
+    "prepTime": "10 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4 people",
+    "nutrition": {
+      "calories": "300 kcal",
+      "protein": "25 g",
+      "fat": "15 g",
+      "carbohydrates": "5 g"
+    }},
+    {
+      "name": "Akara (Bean Cakes)",
+    "description": "Deep-fried cakes made from black-eyed peas.",
+    "image": "images/akara.jpg",
+    "ingredients": [" 2 cups black-eyed peas", "  1 onion, chopped"," 1-2 green peppers (optional)","Salt to taste"," Oil for frying"],
+    "instructions": ["Step 1:  Soak beans overnight, then peel and blend with onions and peppers.", "Step 2: .  Heat oil in a pan.", "Step 3:   Form small balls of the mixture and fry until golden."],
+    "prepTime": "15 minutes",
+    "cookTime": "15 minutes",
+    "servings": "4 people",
+    "nutrition": {
+      "calories": "250 kcal",
+      "protein": "10 g",
+      "fat": "15 g",
+      "carbohydrates": "30 g"
+    } 
+    },
+    {
+      "name": "Mbongo Tchobi",
+      "description": "A rich, black soup made with ground spices and fish.",
+      "image": "images/tchobi.jpg",
+      "ingredients": ["500g fish, cut into pieces", " 1 onion, chopped"," 2 tablespoons mbongo spice mix"," 2 cups water","1/4 cup palm oil","Salt to taste"],
+      "instructions": ["Step 1:  In a pot, heat palm oil, sauté onions.", "Step 2:  Add fish, water, and mbongo spice; simmer for 30 minutes.", "Step 3:  Season and serve with fufu."],
+      "prepTime": "5 minutes",
+      "cookTime": "20 minutes",
+      "servings": "4 people",
+      "nutrition": {
+        "calories": "350 kcal",
+        "protein": "30 g",
+        "fat": "20 g",
+        "carbohydrates": "5 g"
+      }
+    },
+    {
+      "name": "Taro Porridge",
+      "description": "A creamy porridge made from taro root, often enjoyed for breakfast.",
+      "image": "images/taro.jpg",
+      "ingredients": ["2 cups taro, peeled and diced", "4 cups of water","1/2 cup coconut milk","2 tablespoons sugar (optional)"],
+      "instructions": ["Step 1:  Boil taro in water until soft.", "Step 2:  Mash and add coconut milk and sugar; stir well.", "Step 3:   Serve warm."],
+      "prepTime": "10 minutes",
+      "cookTime": "20 minutes",
+      "servings": "4 people",
+      "nutrition": {
+        "calories": "250 kcal",
+        "protein": "3 g",
+        "fat": "5 g",
+        "carbohydrates": "50 g"
+      }
+    },
+    {
+      "name": "Fufu Corn",
+      "description": "A staple made from fermented corn, often served with soups.",
+      "image": "images/fufu.jpg",
+      "ingredients": [" 2 cups corn flour", " Water (as needed)"],
+      "instructions": ["Step 1:  Mix corn flour with enough water to form a dough.", "Step 2:  Cook in boiling water, stirring continuously until it thickens.", "Step 3:  Serve hot with a soup or stew."],
+      "prepTime": "5 minutes",
+      "cookTime": "15 minutes",
+      "servings": "4 people",
+      "nutrition": {
+        "calories": "300 kcal",
+        "protein": "6 g",
+        "fat": "1 g",
+        "carbohydrates": "67 g"
+      }
+    },
+    {
+      "name": "Chin Chin",
+      "description": " Fried dough snacks that are sweet and crunchy.",
+      "image": "images/chin.jpg",
+      "ingredients": ["2 cups flour", " 1/4 cup sugar","1/4 cup butter"," 1/2 cup milk"," 1 teaspoon baking powder"," Oil for frying"],
+      "instructions": ["Step 1:  Mix flour, sugar, baking powder, and butter.", "Step 2:  Add milk to form a dough; roll and cut into small pieces.", "Step 3:  Fry in hot oil until golden brown."],
+      "prepTime": "5 minutes",
+      "cookTime": "15 minutes",
+      "servings": "4 people",
+      "nutrition": {
+        "calories": "400 kcal",
+        "protein": "6 g",
+        "fat": "20 g",
+        "carbohydrates": "50 g"
+      }
+    }
+ ]
+  
+  
